@@ -1,0 +1,57 @@
+
+.header{
+  padding: 30px;
+  border-top: 1px solid #e5e5e5;
+  background-color: #FFC648;
+  text-align: center;
+}
+.call{
+  padding: 70px;
+  border-top: 1px solid #e5e5e5;
+  background-color: #00B1B9;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Caviar Dreams Bold", Arial;
+  color: #FFFFFF;
+  line-height:150%; 
+}
+.conhecerJogos{
+  padding: 70px;
+  background-color: #D7FFFE;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  font-family: "Komika Axis", Arial;
+  font-size: 58px; 
+  color: #F48031;
+  line-height: 100%;
+}
+.participate{
+  padding: 70px;
+  background-color: #F48031;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  font-family: "Komika Axis", Arial;
+  font-size: 58px; 
+  color: #D7FFFE;
+  line-height: 100%;
+}
+.participate img{
+  width: auto;
+}
+.access{
+  padding: 70px 0;
+  border-top: 1px solid #e5e5e5;
+  background-color: #00B1B9;
+  text-align: center;
+  font-family: "Komika Axis", Arial;
+  font-size: 58px; 
+  color: #D7FFFE;
+  line-height: 100%;
+  
+}
+.footer {
+  padding: 70px 0;
+  border-top: 1px solid #e5e5e5;
+}
+
+
